@@ -20,7 +20,9 @@ On our GitHub you may find docs, tasks and issues, which will help you to unders
   - [Who are you?](#)
   - [What do you do?](#)
   - [Why do you do it?](#)
-  - [Where can I find it?](#)
+  - [What are your values?](#)
+  - [What problem are you trying to solve?](#)
+  - [Where can I find your work?](#)
   - [Do you have further plans?](#)
   - [What's in it for me?](#)
 - [Manifesto](#)
@@ -30,6 +32,8 @@ On our GitHub you may find docs, tasks and issues, which will help you to unders
 - Who are you?
 - What do you do?
 - Why do you do it?
+- What are your values?
+- What problem are you trying to solve?
 - Where can I find it?
 - Do you have further plans?
 - What's in it for me?
