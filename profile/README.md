@@ -30,7 +30,7 @@ On our GitHub you may find docs, tasks and issues, which will help you to unders
 ## Q&A
 
 #### Q. Who are you?
-  - A. Citizen Cosmos is an ecosystem developer focused on developing the greater community of the interchain. It is currently run by a small team of individuals, with a long-term focus on decentralizing the project.  
+- A. Citizen Cosmos is an ecosystem developer focused on developing the greater community of the interchain. It is currently run by a small team of individuals, with a long-term focus on decentralizing the project.  
 
 #### Q. What do you do?
   - A. Citizen Cosmos runs validator infrastructure, produces podcasts, streams, creates educational content, helps to sponsor and organize events, helps to connect teams, helps teams to form partnerships, etc.
