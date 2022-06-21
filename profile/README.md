@@ -16,8 +16,8 @@ On our GitHub you may find docs, tasks and issues, which will help you to unders
 
 ## Table of Content
 
-- [Q&A](https://github.com/citizen-cosmos/.github/blob/main/profile/README.md#qa=)
-  - [Who are you?](https://github.com/citizen-cosmos#q-who-are-you=)
+- [Q&A](#qa=)
+  - [Who are you?](#q-who-are-you=)
   - [What do you do?](https://github.com/citizen-cosmos#q-what-do-you-do=)
   - [Why do you do it?](https://github.com/citizen-cosmos#q-why-do-you-do-it=)
   - [What are your values?](https://github.com/citizen-cosmos#q-what-are-your-values=)
