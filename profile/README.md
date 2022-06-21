@@ -17,14 +17,14 @@ On our GitHub you may find docs, tasks and issues, which will help you to unders
 ## Table of Content
 
 - [Q&A](https://github.com/citizen-cosmos/.github/blob/main/profile/README.md#qa=)
-  - [Who are you?]
-  - [What do you do?]
-  - [Why do you do it?]
-  - [What are your values?]
-  - [What problem are you trying to solve?]
-  - [Where can I find your work?]
-  - [Do you have further plans?]
-  - [What's in it for me?]
+  - [Who are you?](https://github.com/citizen-cosmos#q-who-are-you=)
+  - [What do you do?](https://github.com/citizen-cosmos#q-what-do-you-do=)
+  - [Why do you do it?](https://github.com/citizen-cosmos#q-why-do-you-do-it=)
+  - [What are your values?](https://github.com/citizen-cosmos#q-what-are-your-values=)
+  - [What problem are you trying to solve?](https://github.com/citizen-cosmos#q-where-can-i-find-it=)
+  - [Where can I find it?](https://github.com/citizen-cosmos#q-where-can-i-find-it=)
+  - [Do you have further plans?](https://github.com/citizen-cosmos#q-do-you-have-further-plans=)
+  - [What's in it for me?](https://github.com/citizen-cosmos#q-whats-in-it-for-me=)
 - [Manifesto](#)
 
 ## Q&A
