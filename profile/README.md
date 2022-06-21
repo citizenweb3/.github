@@ -25,7 +25,7 @@ On our GitHub you may find docs, tasks and issues, which will help you to unders
   - [Where can I find it?](#q-where-can-i-find-it)
   - [Do you have further plans?](#q-do-you-have-further-plans)
   - [What's in it for me?](#q-whats-in-it-for-me)
-- [Manifesto](https://github.com/citizen-cosmos#manifesto)
+- [Manifesto](#manifesto)
 
 ## Q&A
 
