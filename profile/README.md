@@ -30,27 +30,27 @@ On our GitHub you may find docs, tasks and issues, which will help you to unders
 ## Q&A
 
 #### Q. Who are you?
-- A. Citizen Cosmos is an ecosystem developer focused on developing the greater community of the interchain. It is currently run by a small team of individuals, with a long-term focus on decentralizing the project.  
+**A.** Citizen Cosmos is an ecosystem developer focused on developing the greater community of the interchain. It is currently run by a small team of individuals, with a long-term focus on decentralizing the project.  
 
 #### Q. What do you do?
-  - A. Citizen Cosmos runs validator infrastructure, produces podcasts, streams, creates educational content, helps to sponsor and organize events, helps to connect teams, helps teams to form partnerships, etc.
+**A.** Citizen Cosmos runs validator infrastructure, produces podcasts, streams, creates educational content, helps to sponsor and organize events, helps to connect teams, helps teams to form partnerships, etc.
 
 #### Q. Why do you do it?
-  - A. The team behind Citizen Cosmos created the project based on our values and goals to create a better and a more decentralized future for the world.
+**A.** The team behind Citizen Cosmos created the project based on our values and goals to create a better and a more decentralized future for the world.
 
 #### Q. What are your values?
-  - A. Open source, decentralization, freedom of speech, categorical imperatives, lack of enforcement, lack of censorship, lack of violence.
+**A.** Open source, decentralization, freedom of speech, categorical imperatives, lack of enforcement, lack of censorship, lack of violence.
 
 #### Q. What problem are you trying to solve?
-  - A. The bigger, long-term issue Citizen Cosmos is trying to solve is the lack of decentralized media and institutions. The short-term issue we're trying to solve is the lack of communication between communities, projects and teams.
+**A.** The bigger, long-term issue Citizen Cosmos is trying to solve is the lack of decentralized media and institutions. The short-term issue we're trying to solve is the lack of communication between communities, projects and teams.
 
 #### Q. Where can I find it?
-  - A. You can find the [Citizen Cosmos website here](https://www.citizencosmos.space/) and all the links to our social media and work are on there too.
+**A.** You can find the [Citizen Cosmos website here](https://www.citizencosmos.space/) and all the links to our social media and work are on there too.
 
 #### Q. Do you have further plans?
-  - A. Yes. The further plans of Citizen Cosmos are outlined in our roadmap. In a few words - create a user managed, decentralized web3 media / influencer.
+**A.** Yes. The further plans of Citizen Cosmos are outlined in our roadmap. In a few words - create a user managed, decentralized web3 media / influencer.
 
 #### Q. What's in it for me?
-  - A. Citizen Cosmos already offers a great source of knowledge, which can help you to filter the bad from the ugly, and the good from the bad. This can help to make staking decisions (by learning from about the validator values on our shows), decide whether or not to be a part of a project and how decentralized it is, etc. In the future Citizen Cosmos plans to offer such tools and incentives as NFT's, a DAO, etc
+**A.** Citizen Cosmos already offers a great source of knowledge, which can help you to filter the bad from the ugly, and the good from the bad. This can help to make staking decisions (by learning from about the validator values on our shows), decide whether or not to be a part of a project and how decentralized it is, etc. In the future Citizen Cosmos plans to offer such tools and incentives as NFT's, a DAO, etc
 
 ## Manifesto
