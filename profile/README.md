@@ -29,3 +29,7 @@ We believe in freedom above needs. We believe in possibilities above enforcement
 We believe in communication, which allows participants to think, make their mind up and cast personal votes on any topic and subject. We think that content should strive to lack subjective opinions and help its consumers to form an opinion, which will result in better discussion, and in turn in a more efficient consensus. 
 
 We believe that blockchains are not simply a form of digital nations. But, open and verifiable blockchains are somewhat similar to natural hives, forests, patterns in the nature that allow us to communicate better. Without communication, we are doomed, and decentralized consensus is a tool that can and will help those who desire to make our pale blue dot a slightly better place. 
+
+![Cw3 logo](https://github.com/citizenweb3/.github/assets/7550961/53c9992c-d949-4a60-aa7a-2884a47a0b9d)
+
+
