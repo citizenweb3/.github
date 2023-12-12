@@ -4,7 +4,7 @@
 
 ## TL;DR
 
-Citizen Web3 was born in 2020, starting its foundations in anarcho-cap ideas, personal interest in creating a better society, community management, ecosystem development and networking. Today, Citizen Web3 is an active member and builder of the web3 galaxy. We provide infrastrucure as a validator across the blockchain space, which allows us to work on various public goods projects and develop the space. 
+Citizen Web3, as a separate project, was born in 2020, finding foundations in ancap vibes, personal interest in building a better society, community management, ecosystem development and networking. Today, Citizen Web3 is an active member and builder of the web3 galaxy. We live web3. We breathe web3. We are web3. We provide infrastructure as a validator across the blockchain space, which allows us to work on various public goods projects and develop the space at our own pace. 
 
 Our public projects include: 
 - One of the oldest [web3 podcasts, about people that make web3 a reality](https://www.citizencosmos.space) 
@@ -12,11 +12,11 @@ Our public projects include:
 - [Web3 Society:](https://t.me/web_3_society) a community against tribalism
 - Public infrastructure
 - (NA at the moment) Bazaar: NFTs, Merchandise, Decentraland
-- [A community](https://t.me/citizen_web_3) that earns incintives (NA at the moment)   
+- [A community](https://t.me/citizen_web_3) that earns incentives (NA at the moment)   
 
-We believe that blockchains should be viewed as digital nations and by using the tools that we hold, we help to build and bring value to these nations. We help building those nations by helping to secure them, along with other [validators](https://www.citizencosmos.space/staking). If we believe that a `city` can be prosperous, and it meets our values, we start to work around it. In turn, the citizens of the city, read - blockchain users, delegate tokens to Citizen Web3.
+We believe that blockchains should be viewed as digital nations and by using the tools that we hold, we help to build and bring value to these nations. We help to build those nations by helping to secure them, along with other [validators](https://www.citizencosmos.space/staking). If we believe that a `city` can be prosperous, and it meets our values, we start to work around it. In turn, the citizens of the city, read - blockchain users, delegate tokens to Citizen Web3.
 
-Our dream is a decentralized web3 without tribalism, and with better communication between all L0's aka the communities, between various ecosystems across all the blockchain space.  
+Our dream is a decentralized web3 without tribalism, and with better communication between all L0's AKA the community, between various ecosystems and across all blockchain space.  
 
 ## Manifesto
 
