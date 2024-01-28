@@ -9,7 +9,7 @@ Citizen Web3, as a separate project, was born in 2020, finding foundations in an
 Our public projects include: 
 - [Web3-focused podcast, dedicated to the stories of the people that make dreams reality](https://www.citizencosmos.space).
 - validatorinfo.com: a dashboard and an explorer that helps you to discover validators across the web3 galaxy ([in the making](https://github.com/citizenweb3/validatorinfo/tree/main)).
-- [Web3 Society:](https://t.me/web_3_society) a community that helps, learns and resents tribalism. Including various incentoves (NA at the moment) 
+- [Web3 Society:](https://t.me/web_3_society) a community that helps, learns and resents tribalism. Including future DAO incentives (NA at the moment) 
 - Public infrastructure, including validator nodes, public RPC endpoints, various testnets. We are currently migrating to bare metal.
 - (NA at the moment) Bazaar: NFTs, Merchandise, Decentraland. 
 
