@@ -4,18 +4,18 @@
 
 ## TL;DR
 
-Citizen Web3, as a separate project, was born in 2020, finding foundations in ancap vibes, personal interest in building a better society, community management, ecosystem development and networking. Today, Citizen Web3 is an active member and builder of the web3 galaxy. We live web3. We breathe web3. We are web3. We provide infrastructure as a validator across the blockchain space, which allows us to work on various public goods projects and develop the space at our own pace. 
+Citizen Web3, as a project came started in 2020, finding roots in ancap vibes, personal values of building a better society, ecosystem development and networking. Today, Citizen Web3 is an active member of the web3 galaxy. We provide, non-custodial, infrastructure as a validator across the blockchain space, which allows us to work on various public goods projects and contribute to the development of web3.  
 
-Our public projects include: 
-- [Web3-focused podcast, dedicated to the stories of the people that make dreams reality](https://www.citizencosmos.space).
-- validatorinfo.com: a dashboard and an explorer that helps you to discover validators across the web3 galaxy ([in the making](https://github.com/citizenweb3/validatorinfo/tree/main)).
-- [Web3 Society:](https://t.me/web_3_society) a community that helps, learns and resents tribalism. Including future DAO incentives (NA at the moment) 
-- Public infrastructure, including validator nodes, public RPC endpoints, various testnets. We are currently migrating to bare metal.
+Our public good projects: 
+- A [Web3-focused podcast](https://www.citizenweb3.com/episodes), discovering the people that contribute to building the decentralized world and turn code into decentralized applications.
+- validatorinfo.com, validator-centic, multichain explorer / dashboard that helps to discover validators across the web3 galaxy - ([in the making](https://github.com/citizenweb3/validatorinfo/tree/main)).
+- [Web3 Society:](https://t.me/web_3_society) a community that helps, learns and resents tribalism. Including future DAO incentives (NA at the moment). 
+- Bare-metal, Web3-focused infrastructure, [including validator nodes](https://www.citizenweb3.com/staking), public RPC endpoints, testnets and relaying.  
 - (NA at the moment) Bazaar: NFTs, Merchandise, Decentraland. 
 
-We believe that blockchains should be viewed as digital nations and by using the tools that we hold, we help to build and bring value to these nations. We help to build those nations by helping to secure them, along with other [validators](https://www.citizencosmos.space/staking). If we believe that a `city` can be prosperous, and it meets our values, we start to work around it. In turn, the citizens of the city, read - blockchain users, delegate tokens to Citizen Web3.
+We believe that blockchains should be viewed as digital nations and by using the tools that we hold, we help to build and bring value to these nations. If we believe that a `city` can be prosperous, and it meets our values, we start to work around it. In turn, the citizens of the city, read - blockchain users, delegate tokens to Citizen Web3 validator.
 
-Our dream is a decentralized web3 without tribalism, and with better communication between all L0's AKA the community, between various ecosystems and across all blockchain space.  
+We believe in a decentralized web3 without tribalism, with better communication between various ecosystems, and across all of the blockchain space. We dream of of a web3 with infrastructure independent of the grid. A web3 without enforcment. We believe that its possible to build. May the code be with you...   
 
 ## Manifesto
 
