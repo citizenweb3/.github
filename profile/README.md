@@ -4,7 +4,7 @@
 
 ## TL;DR
 
-Citizen Web3, as a project came started in 2020, finding roots in ancap vibes, personal values of building a better society, ecosystem development and networking. Today, Citizen Web3 is an active member of the web3 galaxy. We provide, non-custodial, infrastructure as a validator across the blockchain space, which allows us to work on various public goods projects and contribute to the development of web3.  
+Citizen Web3, as a project started in 2020, finding roots in ancap vibes, personal values of building a better society, ecosystem development and networking. Today, Citizen Web3 is an active member of the web3 galaxy. We provide, non-custodial, infrastructure as a validator across the blockchain space, which allows us to work on various public goods projects and contribute to the development of web3.  
 
 Our public good projects: 
 - A [Web3-focused podcast](https://www.citizenweb3.com/episodes), discovering the people that contribute to building the decentralized world and turn code into decentralized applications.
