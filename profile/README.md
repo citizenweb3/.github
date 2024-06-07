@@ -8,7 +8,7 @@ Citizen Web3, as a project started in 2020, finding roots in ancap vibes, person
 
 Our public good projects: 
 - A [Web3-focused podcast](https://www.citizenweb3.com/episodes), discovering the people that contribute to building the decentralized world and turn code into decentralized applications.
-- validatorinfo.com: Validator-centic, multichain explorer / dashboard that helps to discover validators across the web3 galaxy - ([in the making](https://validatorinfo.com/)).
+- validatorinfo.com: Validator-centic, multichain explorer / dashboard that helps to discover validators across the web3 galaxy ([in the making](https://validatorinfo.com/)).
 - [Web3 Society:](https://t.me/web_3_society) a community that helps, learns and resents tribalism. Including future DAO incentives (NA at the moment). 
 - Bare-metal, Web3-focused infrastructure, [including validator nodes](https://www.citizenweb3.com/staking), public RPC endpoints, testnets and relaying.  
 - (NA at the moment) Bazaar: NFTs, Merchandise, Decentraland. 
