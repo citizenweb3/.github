@@ -1,21 +1,23 @@
 # Citizen Web3
 
-(Previously Citizen Cosmos)
+(previously Citizen Cosmos)
 
 ## TL;DR
 
-Citizen Web3, as a project started in 2020, finding roots in ancap vibes, personal values of building a better society, ecosystem development and networking. Today, Citizen Web3 is an active member of the web3 galaxy. We provide, non-custodial, infrastructure as a validator across the blockchain space, which allows us to work on various public goods projects and contribute to the development of web3.  
+Citizen Web3, as a project, started in 2020. Finding roots in ancap vibes, personal values in building a better society, ecosystem development and networking. Today, Citizen Web3 is an active member of the web3 galaxy. We are blockchain agnostic and decentralization maximalists. We provide, noncustodial, infrastructure as a validator across the blockchain space, which allows us to work on various public goods, and contribute to the development of web3.  
 
 Our public good projects: 
-- A [Web3-focused podcast](https://www.citizenweb3.com/episodes), discovering the people that contribute to building the decentralized world and turn code into decentralized applications.
-- validatorinfo.com: Validator-centic, multichain explorer / dashboard that helps to discover validators across the web3 galaxy ([in the making](https://validatorinfo.com/)).
-- [Web3 Society:](https://t.me/web_3_society) a community that helps, learns and resents tribalism. Including future DAO incentives (NA at the moment). 
-- Bare-metal, Web3-focused infrastructure, [including validator nodes](https://www.citizenweb3.com/staking), public RPC endpoints, testnets and relaying.  
-- (NA at the moment) Bazaar: NFTs, Merchandise, Decentraland. 
+- [Citizen Web3 Podcast](https://www.citizenweb3.com/episodes): discovering the people that contribute to building the decentralized world and turn code into decentralized applications
+- [ValidatorInfo.com](https://validatorinfo.com): validator focused, multichain explorer / dashboard that helps to discover validators across the web3 galaxy 
+- [Web3 Society:](https://t.me/web_3_society) a community that helps, learns and resents tribalism. Including future DAO incentives (NA at the moment) 
+- [Validator Infra](https://www.citizenweb3.com/staking): self-hosted, bare-metal infrastructure. Independent off the grid infra, including public endpoints, testnets, relaying   
+- (NA at the moment) Bazaar: NFTs, Merchandise, Decentraland 
 
-We believe that blockchains should be viewed as digital nations and by using the tools that we hold, we help to build and bring value to these nations. If we believe that a `city` can be prosperous, and it meets our values, we start to work around it. In turn, the citizens of the city, read - blockchain users, delegate tokens to Citizen Web3 validator.
+We believe that blockchains should be viewed as digital nations. By using the tools that we hold, we help to build and bring value to these nations. Once we believe that a `city` can be prosperous, and it meets our values, we start to work around it. In turn, the citizens of the city, read - blockchain users, delegate tokens to our validator - Citizen Web3.
 
-We believe in a decentralized web3 without tribalism, with better communication between various ecosystems, and across all of the blockchain space. We dream of of a web3 with infrastructure independent of the grid. A web3 without enforcment. We believe that its possible to build. May the code be with you...   
+We believe in a decentralized web3 without tribalism. In better communication between various ecosystems. We dream of a web3 with infrastructure independent off the grid. A web3 without enforcement. 
+
+> May the code be with you...   
 
 ## Manifesto
 
@@ -25,10 +27,8 @@ From 'A Pale Blue Dot', by Carl Sagan.
 
 We believe in freedom above needs. We believe in possibilities above enforcement. We believe in values above desires. We believe that censorship has killed more people than anything else together combined. We value honesty and we value the truth. We value love and cherish all existing creatures. We value intelligence and we value decentralization. 
 
-We believe in communication, which allows participants to think, make their mind up and cast personal votes on any topic and subject. We think that content should strive to lack subjective opinions and help its consumers to form an opinion, which will result in better discussion, and in turn in a more efficient consensus. 
+We believe in communication, which allows participants to think, make their mind up and cast personal votes on any topic and subject. We think that content should strive to lack subjective opinions and help its consumers to form their own opinion. Hence, resulting in better discussion, and in turn in a more efficient consensus. 
 
-We believe that blockchains are not simply a form of digital nations. But, open and verifiable blockchains are somewhat similar to natural hives, forests, patterns in the nature that allow us to communicate better. Without communication, we are doomed, and decentralized consensus is a tool that can and will help those who desire to make our pale blue dot a slightly better place. 
+We believe that blockchains are not simply a form of digital nations. But, open and verifiable blockchains are somewhat similar to natural hives, forests, patterns in the nature that allow us to communicate better. Without communication, we are doomed, and decentralized consensus is a tool, that can and will help, those that desire to make our pale blue dot a slightly better place. 
 
 ![Cw3 logo](https://github.com/citizenweb3/.github/assets/7550961/53c9992c-d949-4a60-aa7a-2884a47a0b9d)
-
-
