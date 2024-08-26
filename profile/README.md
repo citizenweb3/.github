@@ -8,9 +8,9 @@ Citizen Web3, as a project, started in 2020. Finding roots in ancap vibes, perso
 
 Our public good projects: 
 - [Citizen Web3 Podcast](https://www.citizenweb3.com/episodes): discovering the people that contribute to building the decentralized world and turn code into decentralized applications
-- [ValidatorInfo.com](https://validatorinfo.com): multichain, validator-focused, explorer / dashboard that helps to discover validators across the web3 galaxy 
+- [ValidatorInfo.com](https://validatorinfo.com): multichain, POW and POS, validator-focused, explorer / dashboard that helps to discover information across the web3 galaxy 
 - [Web3 Society:](https://t.me/web_3_society) a community that helps, learns and resents tribalism. Including future DAO incentives (NA at the moment) 
-- [Validator Infra](https://www.citizenweb3.com/staking): self-hosted, bare-metal infrastructure. Independent off the grid infra, including public endpoints, testnets, relaying   
+- [Validator Infra](https://www.citizenweb3.com/staking): self-hosted, bare-metal infrastructure. Independent off the grid infra, including public endpoints, testnets, archive nodes and relaying   
 - (NA at the moment) Bazaar: NFTs, Merchandise, Decentraland 
 
 We believe that blockchains should be viewed as digital nations. By using the tools that we hold, we help to build and bring value to these nations. Once we believe that a `city` can be prosperous, and it meets our values, we start to work around it. In turn, the citizens of the city, read - blockchain users, delegate tokens to our validator - Citizen Web3.
