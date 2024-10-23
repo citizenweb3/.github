@@ -4,13 +4,14 @@
 
 ## TL;DR
 
-Citizen Web3, as a project, started in 2020. Finding roots in ancap vibes, personal values in building a better society, ecosystem development and networking. Today, Citizen Web3 is an active member of the web3 galaxy. We are blockchain agnostic and decentralization maximalists. We provide, noncustodial, infrastructure as a validator across the blockchain space, which allows us to work on various public goods, and contribute to the development of web3.  
+Citizen Web3, as a project, started in 2020. Finding roots in ancap vibes, personal values in building a better society, ecosystem development and networking. Today, Citizen Web3 is an active member of the web3 galaxy. We are blockchain agnostic and decentralization maximalists. We provide noncustodial, off the grid infrastructure as a validator across the blockchain space. This allows us to work on various public goods, and contribute to the development of web3.  
 
 Our public good projects: 
-- [Citizen Web3 Podcast](https://www.citizenweb3.com/episodes): discovering the people that contribute to building the decentralized world and turn code into decentralized applications
-- [ValidatorInfo.com](https://validatorinfo.com): multichain, POW and POS, validator-focused, explorer / dashboard that helps to discover information across the web3 galaxy 
-- [Web3 Society:](https://t.me/web_3_society) a community that helps, learns and resents tribalism. Including future DAO incentives (NA at the moment) 
-- [Validator Infra](https://www.citizenweb3.com/staking): self-hosted, bare-metal infrastructure. Independent off the grid infra, including public endpoints, testnets, archive nodes and relaying   
+- [Citizen Web3 Podcast](https://www.citizenweb3.com/episodes): discovering those that contribute to building the decentralized world and turn code into web3 applications
+- [ValidatorInfo.com](https://validatorinfo.com): multichain, Proof of Work and Proof of Stake explorer / dashboard, focused on mining pools and validators, across the web3 galaxy 
+- [Web3 Society:](https://t.me/web_3_society) a community that resents tribalism. With a focus on helping and learning.Including future DAO incentives (NA at the moment) 
+- [Validator Infra](https://www.citizenweb3.com/staking): self-hosted, bare-metal infrastructure. Independent off the grid infra, including public endpoints, testnets, archive nodes and relaying
+- [B.V.C.](https://bvc.citizenweb3.com/): baremetal valdiator coven. A community for selfhosted and baremetal validators. 
 - (NA at the moment) Bazaar: NFTs, Merchandise, Decentraland 
 
 We believe that blockchains should be viewed as digital nations. By using the tools that we hold, we help to build and bring value to these nations. Once we believe that a `city` can be prosperous, and it meets our values, we start to work around it. In turn, the citizens of the city, read - blockchain users, delegate tokens to our validator - Citizen Web3.
