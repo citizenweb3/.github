@@ -2,7 +2,7 @@
 
 (previously Citizen Cosmos)
 
-## TL;DR
+## TL;DR: THE MISSION
 
 Citizen Web3, as a project, started in 2020. Finding roots in ancap vibes, personal values in building a better society, ecosystem development and networking. Today, Citizen Web3 is an active member of the web3 galaxy. We are blockchain agnostic and decentralization maximalists. We provide noncustodial, off the grid infrastructure as a validator across the blockchain space. This allows us to work on various public goods, and contribute to the development of web3.  
 
@@ -20,7 +20,7 @@ We believe in a decentralized web3 without tribalism. In better communication be
 
 > May the code be with you...   
 
-## Manifesto
+## THE MANIFESTO
 
 > From this distant vantage point, the Earth might not seem of any particular interest. But for us, it's different. Consider again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there--on a mote of dust suspended in a sunbeam... Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves...
 
