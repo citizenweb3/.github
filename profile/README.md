@@ -6,7 +6,7 @@
 
 Citizen Web3, as a project, started in 2020. Finding roots in ancap vibes, personal values in building a better society, ecosystem development and networking. Today, Citizen Web3 is an active member of the web3 galaxy. We are blockchain agnostic and decentralization maximalists. We provide noncustodial, off the grid infrastructure as a validator across the blockchain space. This allows us to work on various public goods, and contribute to the development of web3.  
 
-Our public good projects: 
+## THE TOOLS: PUBLIC GOODS
 - [Citizen Web3 Podcast](https://www.citizenweb3.com/episodes): discovering those that contribute to building the decentralized world and turn code into web3 applications
 - [ValidatorInfo.com](https://validatorinfo.com): multichain, Proof of Work and Proof of Stake explorer / dashboard, focused on mining pools and validators, across the web3 galaxy 
 - [Web3 Society:](https://t.me/web_3_society) a community that resents tribalism. With a focus on helping and learning.Including future DAO incentives (NA at the moment) 
