@@ -1,7 +1,5 @@
 # Citizen Web3
 
-(previously Citizen Cosmos)
-
 ## TL;DR: THE MISSION
 
 Citizen Web3, as a project, started in 2020. Finding roots in ancap vibes, personal values in building a better society, ecosystem development and networking. Today, Citizen Web3 is an active member of the web3 galaxy. We are blockchain agnostic and decentralization maximalists. We provide noncustodial, off the grid infrastructure as a validator across the blockchain space. This allows us to work on various public goods, and contribute to the development of web3.  
@@ -33,3 +31,5 @@ We believe in communication, which allows participants to think, make their mind
 We believe that blockchains are not simply a form of digital nations. But, open and verifiable blockchains are somewhat similar to natural hives, forests, patterns in the nature that allow us to communicate better. Without communication, we are doomed, and decentralized consensus is a tool, that can and will help, those that desire to make our pale blue dot a slightly better place. 
 
 ![Cw3 logo](https://github.com/citizenweb3/.github/assets/7550961/53c9992c-d949-4a60-aa7a-2884a47a0b9d)
+
+(previously Citizen Cosmos)
