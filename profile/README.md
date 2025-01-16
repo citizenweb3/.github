@@ -30,6 +30,7 @@ We believe in communication, which allows participants to think, make their mind
 
 We believe that blockchains are not simply a form of digital nations. But, open and verifiable blockchains are somewhat similar to natural hives, forests, patterns in the nature that allow us to communicate better. Without communication, we are doomed, and decentralized consensus is a tool, that can and will help, those that desire to make our pale blue dot a slightly better place. 
 
-![CW3 Black](https://github.com/user-attachments/assets/dee8495a-4dff-4201-bc3a-4a9beca86f0b)
+![Heather-8](https://github.com/user-attachments/assets/26e4a16b-b37c-4da3-b3ce-38aa53aaa5f6)
+
 
 (previously Citizen Cosmos)
