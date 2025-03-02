@@ -7,7 +7,7 @@ Citizen Web3, as a project, started in 2020. Finding roots in ancap vibes, perso
 ## THE TOOLS: PUBLIC GOODS
 - [Citizen Web3 Podcast](https://www.citizenweb3.com/episodes): Discovering Web3 Contributors to Blockchain Decentralization, Network Security and App Scalability
 - [ValidatorInfo.com](https://validatorinfo.com): Web3 Explorer. Blockchain Validator, Mining Pool and Network Interactive Dashboard, Real-Time Token Analytics and Metrics 
-- [Web3 Society](https://t.me/web_3_society): A Community Focused on Helping and Learning to love the Tech. Blockchain Agnositc. Fck Tribalism. Including future DAO incentives (NA at the moment) 
+- [Web3 Society](https://t.me/web_3_society): Web3 Community Based on Values of Decentralization. Learning to Forget Tribalism and Love the Tech. Future DAO 
 - [Validator Infra](https://www.citizenweb3.com/staking): Self-Hosted, Bare-Metal Validator Infrastructure. Off the Grid Capacity. Offering Endpoints, Archive, Snapshots and Relaying
 - [B.V.C.](https://bvc.citizenweb3.com/): Baremetal Valdiator Coven. Community of Selfhosted and Baremetal Blockcahin Network Operators 
 - (NA at the moment) Bazaar: NFTs, Merchandise, Decentraland 
