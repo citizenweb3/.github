@@ -8,8 +8,8 @@ Citizen Web3, as a project, started in 2020. Finding roots in ancap vibes, perso
 - [Citizen Web3 Podcast](https://www.citizenweb3.com/episodes): Discovering Web3 Contributors to Blockchain Decentralization, Network Security and App Scalability
 - [ValidatorInfo.com](https://validatorinfo.com): Web3 Explorer. Blockchain Validator, Mining Pool and Network Interactive Dashboard, Real-Time Token Analytics and Metrics 
 - [Web3 Society](https://t.me/web_3_society): A Community Focused on Helping and Learning ro love the Tech. Blockchain Agnositc. Fck Tribalism. Including future DAO incentives (NA at the moment) 
-- [Validator Infra](https://www.citizenweb3.com/staking): self-hosted, bare-metal infrastructure. Independent off the grid infra, including public endpoints, testnets, archive nodes and relaying
-- [B.V.C.](https://bvc.citizenweb3.com/): baremetal valdiator coven. A community for selfhosted and baremetal validators. 
+- [Validator Infra](https://www.citizenweb3.com/staking): Self-Hosted, Bare-Metal Validator Infrastructure. Off the Grid Capacity. Offering Endpoints, Archive, Snapshots and Relaying
+- [B.V.C.](https://bvc.citizenweb3.com/): Baremetal Valdiator Coven. Community of Selfhosted and Baremetal Blockcahin Network Operators 
 - (NA at the moment) Bazaar: NFTs, Merchandise, Decentraland 
 
 We believe that blockchains should be viewed as digital nations. By using the tools that we hold, we help to build and bring value to these nations. Once we believe that a `city` can be prosperous, and it meets our values, we start to work around it. In turn, the citizens of the city, read - blockchain users, delegate tokens to our validator - Citizen Web3.
