@@ -1,7 +1,7 @@
 # Citizen Web3
 
 ## 🌍 Mission
-Citizen Web3 is a non custodial, self-hosted infrastructure provider and an active member of the web3 galaxy. We are blockchain agnostic, censorship-resistant, and value-driven by the goals of cypherpunks. We believe in decentralization, cross-ecosystem collaboration, and technological sovereignty. Born in 2020 (formerly Citizen Cosmos), our mission is to grow the Web3 space by creating infrastructure, sharing knowledge, and empowering communities—without tribalism.
+Citizen Web3 is a non-custodial, self-hosted infrastructure provider and an active member of the web3 galaxy. We are blockchain agnostic, censorship-resistant, and value-driven by the goals of cypherpunks. We build off-the-grid infrastructure hosted in the middle of the Atlantic Ocean. We focus on privacy networks first-hand. We believe in decentralization, cross-ecosystem collaboration, and technological sovereignty. Born in 2020 (formerly Citizen Cosmos), our mission is to grow the Web3 space by creating infrastructure, sharing knowledge, and empowering communities—without tribalism.
 
 > *Blockchains are digital nations. We build open-source tools, provide off the grid infrastructure to support the prosperity of these new digital societies.*
 
