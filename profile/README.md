@@ -15,7 +15,7 @@ Citizen Web3 is a non-custodial, self-hosted infrastructure provider and an acti
   - Focused on privacy chains first-hand 
 
 - **Public Goods & Tools:**  
-  - [Citizen Web3 Podcast](https://www.podcast.citizenweb3.com): Interviews and stories from key Web3 builders, contributors and thinkers
+  - [Citizen Web3 Podcast](https://podcast.citizenweb3.com): Interviews and stories from key Web3 builders, contributors and thinkers
   - [ValidatorInfo.com](https://validatorinfo.com): Web3 Blockchain Explorer and Interactive Dashboard. Validator, Mining Pool, Token and Network Onchain Metrics
   - [Web3 Society](https://t.me/web_3_society): Web3 Values-driven, Blockchain-agnostic Community for collaboration. Learning to Forget Tribalism and Love the Tech. Future DAO 
   - [Baremetal Validator Coven (B.V.C.)](https://bvc.citizenweb3.com/): Baremetal Valdiator Coven. Community and Docs for Selfhosted and Baremetal Blockcahin Network Operators 
@@ -40,7 +40,7 @@ Citizen Web3 is a non-custodial, self-hosted infrastructure provider and an acti
 
 ## 📚 Explore Our Projects
 
-- [Citizen Web3 Podcast](https://www.podcast.citizenweb3.com)
+- [Citizen Web3 Podcast](https://podcast.citizenweb3.com)
 - [ValidatorInfo.com](https://validatorinfo.com)
 - [Web3 Society](https://github.com/citizenweb3/web3-society)
 - [Staking & Validator Infrastructure](https://github.com/citizenweb3/staking)
