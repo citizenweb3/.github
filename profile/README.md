@@ -40,7 +40,7 @@ Citizen Web3 is a non-custodial, self-hosted infrastructure provider and an acti
 
 ## 📚 Explore Our Projects
 
-- [Citizen Web3 Podcast](https://www.citizenweb3.com/)
+- [Citizen Web3 Podcast](https://www.podcast.citizenweb3.com)
 - [ValidatorInfo.com](https://validatorinfo.com)
 - [Web3 Society](https://github.com/citizenweb3/web3-society)
 - [Staking & Validator Infrastructure](https://github.com/citizenweb3/staking)
