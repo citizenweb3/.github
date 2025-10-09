@@ -20,7 +20,8 @@ Citizen Web3 is a non-custodial, self-hosted infrastructure provider and an acti
   - [Web3 Society](https://t.me/web_3_society): Web3 Values-driven, Blockchain-agnostic Community for collaboration. Learning to Forget Tribalism and Love the Tech. Future DAO 
   - [Baremetal Validator Coven (B.V.C.)](https://bvc.citizenweb3.com/): Baremetal Valdiator Coven. Community and Docs for Selfhosted and Baremetal Blockcahin Network Operators 
   - [Validator Infra](https://www.citizenweb3.com/staking): Self-Hosted, Bare-Metal Validator Infrastructure. Off the Grid Capacity. Endpoints, Archive, Snapshots and Relaying
-  - (Coming Soon) Bazaar: NFTs, merchandise, and virtual spaces
+  - [Chain Data Indexer](https://github.com/citizenweb3/chain-data-indexer): High-performance, Blockchain Data Indexer. Powering Block Explorers, Analytics Platforms, DeFi Dashboards and more
+  - [Bazaar](): NFTs, Merchandise, Metaverse and more. Under or on-going Development
 
 - **Education & Knowledge:**  
   - Open research, articles, podcasts, lives and guides to empower users and operators across ecosystems
@@ -43,9 +44,10 @@ Citizen Web3 is a non-custodial, self-hosted infrastructure provider and an acti
 - [Citizen Web3 Podcast](https://podcast.citizenweb3.com)
 - [ValidatorInfo.com](https://validatorinfo.com)
 - [Web3 Society](https://github.com/citizenweb3/web3-society)
-- [Staking & Validator Infrastructure](https://github.com/citizenweb3/staking)
+- [Staking & Validator Infrastructure](https://github.com/citizenweb3/staking?tab=readme-ov-file#citizen-web3-validator-architecture)
 - [Baremetal Validator Coven (BVC)](https://bvc.citizenweb3.com/)
-- [Manuscripts: Research & Articles](https://github.com/citizenweb3/manuscripts)
+- [Manuscripts: Blog & Articles](https://github.com/citizenweb3/manuscripts)
+- [Chain Data Indexer](https://github.com/citizenweb3/chain-data-indexer)
 - [Organization GitHub](https://github.com/citizenweb3)
 
 ---
