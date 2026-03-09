@@ -55,11 +55,11 @@ ValidatorInfo.com is our flagship live example. We help projects design, deploy,
 
 ## 🏛️ Our Values
 
-- **Decentralization & Sovereignty** — Real self-custody, off-grid infrastructure
-- **Privacy First** — Built for users who value freedom
-- **Anti-Tribalism** — Cross-ecosystem collaboration, all chains welcome
-- **Sustainability** — Renewable energy, second-hand hardware, efficient operations
-- **Transparency & Play** — Open source, open data, and tools that are actually fun to use
+- **Decentralization & Sovereignty** - Real self-custody, off-grid infrastructure
+- **Privacy First** - Built for users who value freedom
+- **Anti-Tribalism** - Cross-ecosystem collaboration, all chains welcome
+- **Sustainability** - Renewable energy, second-hand hardware, efficient operations
+- **Transparency & Play** - Open source, open data, and tools that are actually fun to use
 
 ---
 
