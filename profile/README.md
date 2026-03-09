@@ -23,7 +23,7 @@ We believe blockchains are digital nations — and we build the tools, the infra
 
 ## 🚀 What We Build
 
-### [ValidatorInfo.com](https://validatorinfo.com) — The Future of Blockchain Exploration
+### [ValidatorInfo.com](https://validatorinfo.com): The Future of Blockchain Exploration
 The most ambitious Web3 explorer on Earth. Real-time validator, mining pool, staking, and network metrics with **live autonomous AI agents** embedded inside the product. 
 
 - Interactive dashboards, rankings, calculators, and comparisons
@@ -43,11 +43,11 @@ We don’t just run validators — we **build and integrate autonomous AI teams*
 ValidatorInfo.com is our flagship live example. We help projects design, deploy, and run their own AI workforces for growth, operations, outreach, and innovation.
 
 ### Other Public Goods
-- **[Citizen Web3 Podcast](https://podcast.citizenweb3.com)** — Deep interviews with builders, thinkers, and operators
-- **[Web3 Society](https://t.me/web_3_society)** — Anti-tribal, values-driven community (Telegram + future DAO). Learning to Forget Tribalism and Love the Tech
-- **[Privacy Forum]()** - TBA
-- **[Baremetal Validator Coven (B.V.C.)](https://bvc.citizenweb3.com/)** — Knowledge base and community for self-hosted operators
-- **[Chain Data Indexer](https://github.com/citizenweb3/chain-data-indexer)** — High-performance, event-driven blockchain indexing framework
+- **[Citizen Web3 Podcast](https://podcast.citizenweb3.com)**: Deep interviews with builders, thinkers, and operators
+- **[Web3 Society](https://t.me/web_3_society)**: Anti-tribal, values-driven community (Telegram + future DAO). Learning to Forget Tribalism and Love the Tech
+- **[Privacy Forum]()**: TBA
+- **[Baremetal Validator Coven (B.V.C.)](https://bvc.citizenweb3.com/)**: Knowledge base and community for self-hosted operators
+- **[Chain Data Indexer](https://github.com/citizenweb3/chain-data-indexer)**: High-performance, event-driven blockchain indexing framework
 - **[Bazaar]()**: NFTs, Merchandise, Metaverse and more. Under or on-going Development
 - **[Manuscripts](https://citizenweb3.github.io/manuscripts/)**: Our blog. Open research, articles, X spaces and guides to empower users and operators across ecosystems
 
