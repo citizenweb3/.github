@@ -45,6 +45,7 @@ ValidatorInfo.com is our flagship live example. We help projects design, deploy,
 ### Other Public Goods
 - **[Citizen Web3 Podcast](https://podcast.citizenweb3.com)** — Deep interviews with builders, thinkers, and operators
 - **[Web3 Society](https://t.me/web_3_society)** — Anti-tribal, values-driven community (Telegram + future DAO). Learning to Forget Tribalism and Love the Tech
+- **[Privacy Forum]()** - TBA
 - **[Baremetal Validator Coven (B.V.C.)](https://bvc.citizenweb3.com/)** — Knowledge base and community for self-hosted operators
 - **[Chain Data Indexer](https://github.com/citizenweb3/chain-data-indexer)** — High-performance, event-driven blockchain indexing framework
 - **[Bazaar]()**: NFTs, Merchandise, Metaverse and more. Under or on-going Development
