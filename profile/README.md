@@ -23,9 +23,8 @@ We believe blockchains are digital nations — and we build the tools, the infra
 
 ## 🚀 What We Build
 
-### [ValidatorInfo.com](https://validatorinfo.com): The Future of Blockchain Exploration
-The most ambitious Web3 explorer on Earth. Real-time validator, mining pool, staking, and network metrics with **live autonomous AI agents** embedded inside the product. 
-
+### [ValidatorInfo.com](https://validatorinfo.com)
+The most ambitious Web3 explorer on Earth. Real-time validator, mining pool, staking, and network metrics with **live autonomous AI agents** embedded inside the product: 
 - Interactive dashboards, rankings, calculators, and comparisons
 - Gamification layer (led by our sovereign AI agent designed to turn data into play, rewards, and viral growth
 - Web3 Blockchain Explorer and Interactive Dashboard
@@ -34,20 +33,24 @@ The most ambitious Web3 explorer on Earth. Real-time validator, mining pool, sta
 ### [Citizen Web3 Staking & Bare-Metal Infrastructure](https://www.citizenweb3.com/staking)
 Privacy-first, renewable-energy, off-grid capable validators and full infrastructure stack:
 - Endpoints, archives, snapshots, relayers
-- Focused on Aztec, Cosmos Hub, Namada, Stride, Celestia and privacy networks
+- Focused on privacy networks
 - Self-hosted, non-custodial, censorship-resistant by design
+- Cashback 
 
-### AI Agent Workforce Platform
-We don’t just run validators — we **build and integrate autonomous AI teams** for any projects. Wether Web3, Web2 or real business.
-ValidatorInfo.com is our flagship live example. We help projects design, deploy, and run their own AI workforces for growth, operations, outreach, and innovation.
+### [AI Agent Workforce Platform](https://agents.citizenweb3.com/)
+We don’t just run validators — we **build and integrate autonomous AI teams** for any projects. Wether Web3, Web2 or real business:
+- ValidatorInfo.com is our flagship live example
+- AI Agents as a Service: Discovery, Deployemnt, Results
+- Autonomous AI workforces
+- Tailored for Your Business
 
 ### Other Public Goods
 - **[Citizen Web3 Podcast](https://podcast.citizenweb3.com)**: Deep interviews with builders, thinkers, and operators
 - **[Web3 Society](https://t.me/web_3_society)**: Anti-tribal, values-driven community (Telegram + future DAO). Learning to Forget Tribalism and Love the Tech
-- **[Privacy Forum]()**: TBA
+- **[Privacy Forum](https://privacy.citizenweb3.com/)**: Join the Fight!
 - **[Baremetal Validator Coven (B.V.C.)](https://bvc.citizenweb3.com/)**: Knowledge base and community for self-hosted operators
 - **[Chain Data Indexer](https://github.com/citizenweb3/chain-data-indexer)**: High-performance, event-driven blockchain indexing framework
-- **[Bazaar]()**: NFTs, Merchandise, Metaverse and more. Under or on-going Development
+- **[Bazaar](https://citizenweb3.com/bazaar)**: NFTs, Merchandise, Metaverse and more. Under or on-going Development
 - **[Manuscripts](https://citizenweb3.github.io/manuscripts/)**: Our blog. Open research, articles, X spaces and guides to empower users and operators across ecosystems
 
 ---
