@@ -38,8 +38,7 @@ Privacy-first, renewable-energy, off-grid capable validators and full infrastruc
 - Self-hosted, non-custodial, censorship-resistant by design
 
 ### AI Agent Workforce Platform
-We don’t just run validators — we **build and integrate autonomous AI teams** for other Web3 projects, DAOs, explorers, wallets, and services.
-
+We don’t just run validators — we **build and integrate autonomous AI teams** for any projects. Wether Web3, Web2 or real business.
 ValidatorInfo.com is our flagship live example. We help projects design, deploy, and run their own AI workforces for growth, operations, outreach, and innovation.
 
 ### Other Public Goods
